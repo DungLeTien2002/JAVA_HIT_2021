@@ -76,7 +76,7 @@ public class RunMain {
         do{
             System.out.print("Nhap vi tri can chen k: ");
             k = sc.nextInt();
-        }while(k<=0 && k > n);
+        }while(k<=0 || k > n);
         System.out.print("Nhap so can chen x: ");
         x = sc.nextInt();
         for(int i=n;i>=k;i--){
