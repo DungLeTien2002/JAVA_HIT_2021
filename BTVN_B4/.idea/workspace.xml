@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b15345ad-8e0c-46ed-9f4b-25be591fb92f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../BTVN_B5/src/Bai1/RunMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BTVN_B3/src/Bai1/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BTVN_B3/src/Bai1/Person.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="20Ui4S6SePlBt0WHwbZj2GcNWav" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.RunMain (5)">
+    <configuration name="RunMain (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bai2.RunMain" />
+      <module name="BTVN_B4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Bai2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunMain (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bai3.RunMain" />
+      <module name="BTVN_B4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Bai3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunMain (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bai6.RunMain" />
+      <module name="BTVN_B4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Bai6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunMain (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bai4.RunMain" />
+      <module name="BTVN_B4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Bai4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunMain (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bai5.RunMain" />
+      <module name="BTVN_B4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Bai5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RunMain (5)" />
+        <item itemvalue="Application.RunMain (4)" />
+        <item itemvalue="Application.RunMain (3)" />
+        <item itemvalue="Application.RunMain (2)" />
+        <item itemvalue="Application.RunMain (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b15345ad-8e0c-46ed-9f4b-25be591fb92f" name="Default Changelist" comment="" />
+      <created>1636105377334</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636105377334</updated>
+      <workItem from="1636105378646" duration="777000" />
+      <workItem from="1636121875085" duration="2896000" />
+      <workItem from="1636166076020" duration="5963000" />
+      <workItem from="1636182551330" duration="5584000" />
+      <workItem from="1636193255259" duration="3828000" />
+      <workItem from="1636216191490" duration="1130000" />
+      <workItem from="1636385554131" duration="525000" />
+      <workItem from="1636799494147" duration="123000" />
+      <workItem from="1636799825856" duration="984000" />
+      <workItem from="1636800851524" duration="182000" />
+      <workItem from="1636885827026" duration="770000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
