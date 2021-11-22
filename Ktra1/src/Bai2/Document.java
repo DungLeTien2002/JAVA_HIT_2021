@@ -5,6 +5,4 @@ public class Document {
     private String name;
     private String publisher;
     private float price;
-
-
 }

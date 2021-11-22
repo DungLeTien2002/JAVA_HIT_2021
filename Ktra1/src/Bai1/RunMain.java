@@ -1,7 +1,5 @@
 package Bai1;
-
 import java.util.Scanner;
-
 public class RunMain {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -15,7 +13,7 @@ public class RunMain {
 
                     for (int j = 1; j < s.charAt(i) - 48; j++) {
                         if (s.charAt(i) % j == 0) tich = tich * j;
-                        System.out.println(j+" ");
+
                     }
                 }
 
@@ -25,4 +23,3 @@ public class RunMain {
         System.out.println("Tich: " + tich);
     }
 }
-
